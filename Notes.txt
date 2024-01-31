@@ -1,0 +1,18 @@
+encryption => The process of coverting information or data into a code, especially to prevent unauthorized access.
+
+Caesar Cipher => Encryption method Invented by Julius caesar => substitute the word to numbers or alphabet.
+Password + key -caesarcipher----> ciphertext
+
+Symmetric encryption  ->  encryption and decryption key same
+
+Hashing -> using Hashing function, turn the password into hash (encryption).  Impossible to go backwards.
+So when login password, it gets the hash then it compares with existing hash  in database. If they match, allow access.
+
+plaintextoffenders  ---> checking the website security
+
+salting -> addding additional random set of characters for password to put into hash.
+
+20,000,000,000 MD5 hashes/second
+17,000 bcrypt Hashes/second
+
+bcrypt uses -> Blowfish cipher algorithm
