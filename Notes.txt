@@ -16,3 +16,5 @@ salting -> addding additional random set of characters for password to put into 
 17,000 bcrypt Hashes/second
 
 bcrypt uses -> Blowfish cipher algorithm
+
+OAuth - Open Authorisation   -->granular level  of access, read/write access, Revoke access
